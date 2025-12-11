@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=3572A5&center=true&vCenter=true&width=600&lines=Hi,+I'm+Anjali;Welcome+to+the+A-Verse" alt="Typing SVG" />
 </div>
 
-<div align="center">
+<div align="left">
   <br>
   <b>Engineering Undergrad @ IIITDM Jabalpur</b>
   <br><br>
