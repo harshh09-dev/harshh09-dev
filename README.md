@@ -1,19 +1,17 @@
 <div align="left">
   
-  <img align="right" src="https://media.giphy.com/media/L1R1TVTh28ucM/giphy.gif" width="350" alt="Coding Gif" />
+  <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding Gif" />
 
-  <h1>Hello!! <br> I'm Anjali Kamal!</h1>
+  <h1>Hello!! I'm Anjali Kamal!</h1>
   
   <p>
-    <b>Software Developer | Data Analyst</b><br>
     <i>Engineering Undergrad @ IIITDM Jabalpur</i>
   </p>
 
   <p>
-    👀 I’m a curious developer merging <b>Full-Stack</b> with <b>Data Science</b>.<br>
-    🌱 Currently learning <b>System Design</b> & <b>Advanced Analytics</b>.<br>
-    🥅 <b>2025 Goal:</b> Contribute to major Open Source Repos.<br>
-    ⚡ <b>Fun fact:</b> I can debug code faster than I can decide what to eat!
+    <b>What I do:</b> I build full-stack applications to solve problems, then use data insights to optimize them.<br>
+    I’m Currently learning <b>System Design</b> & <b>Advanced Analytics</b>.<br>
+    My projects are available at [web link].
   </p>
 
   <p>
