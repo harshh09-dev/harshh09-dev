@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td valign="center" width="55%">
-      <h1>Hello!! \(^ _ ^)/ <br> I'm Anjali Kamal!</h1>
+      <h1>Hello!! <br> I'm Anjali Kamal!</h1>
       <p>
         <b>Software Developer | Data Analyst</b><br>
         <i>Engineering Undergrad @ IIITDM Jabalpur</i>
@@ -11,7 +11,6 @@
       <p>
         👀 I’m a curious developer merging <b>Full-Stack</b> with <b>Data Science</b>.<br>
         🌱 Currently learning <b>System Design</b> & <b>Advanced Analytics</b>.<br>
-        💞️ Open to collaborate on <b>AI/ML & Web Projects</b>.<br>
         🥅 <b>2025 Goal:</b> Contribute to major Open Source Repos.<br>
         ⚡ <b>Fun fact:</b> I can debug code faster than I can decide what to eat!
       </p>
@@ -25,31 +24,18 @@
       </p>
     </td>
     <td valign="center" width="45%">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Gif" />
+      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Coding Gif" style="border-radius: 10px;" />
     </td>
   </tr>
 </table>
 
-</div>
-
 <br/>
 
-### 💻 The Toolkit
+<h3>💻 The Toolkit</h3>
+<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,html,css,react,nextjs,nodejs,flask,tailwind,bootstrap,mysql,postgres,mongodb,firebase,supabase,aws,git,github,vscode,postman,tensorflow,flutter,arduino,linux&perline=14" />
 
-| **Languages** | **Development** | **Data & AI** |
-| :--- | :--- | :--- |
-| ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) | ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
+<br/><br/>
 
-<br/>
+<img src="https://github.com/A-verse/A-verse/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
 
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=A-verse&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-verse&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" />
-  
-  <br/><br/>
-  
-  <img src="https://github.com/A-verse/A-verse/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
-  
 </div>
