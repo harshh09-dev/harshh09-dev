@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td valign="center" width="55%">
-      <h1>Hello!! \(^ _ ^)/ <br> I'm Anjali Kamal!</h1>
+      <h1>Hello!! <br> I'm Anjali Kamal!</h1>
       <p>
         <b>Software Developer | Data Analyst</b><br>
         <i>Engineering Undergrad @ IIITDM Jabalpur</i>
